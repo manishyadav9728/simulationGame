@@ -1,0 +1,47 @@
+.main{
+width:500px;
+height:500px;
+background-color: rgba(235, 237, 152, 0.383);
+}
+.drone{
+    scale:30%;
+}
+.controls{
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    justify-content:space-around;
+    width: 500px;
+    padding: 5px;
+    
+}
+.border{
+    border:2px solid rgba(72, 255, 0, 0.8);
+}
+.input{
+    width:20px;
+}
+.left{
+    background-color: rgb(93, 221, 151);
+    font-size: large;
+}
+.right{
+    background-color: rgb(93, 221, 151);
+    font-size: large;
+}
+.attack{
+    background-color: rgb(93, 221, 151);
+    font-size: large;
+}
+.move{
+    background-color:rgb(93, 221, 151);
+    font-size: large;
+}
+.report{
+    background-color:rgb(93, 221, 151);
+    font-size: large;
+}
+.buttonPlace{
+    background-color:rgb(93, 221, 151);
+    font-size: large;
+}
